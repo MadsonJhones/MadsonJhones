@@ -1,7 +1,7 @@
 <!-- ## <div align="center"> Hi, I'm Madson Jhones, Software developer and technology enthusiast! </div> -->
 
 <h4 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=3000&pause=1000&color=00DC0C&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+;I'm+Madson+Jhones;Software+Developer;And+;Technology+Enthusiast.;Let's+Code!" alt="Typing SVG" /></a>   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/94166da98c86698984a568e4f3e3b8c1.gif" width="150" height="150" border="0"  align="right" alt="Mad" /></a><br /><a href="https://picasion.com/">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=3000&pause=1000&color=00DC0C&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+;I'm+Madson+Jhones;Software+Developer;And+;Technology+Enthusiast.;Let's+Code!" alt="Typing SVG" /></a> 
 </h4>
 
 <div align="center">
@@ -26,6 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+<br>
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
