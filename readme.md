@@ -1,7 +1,7 @@
 <!-- ## <div align="center"> Hi, I'm Madson Jhones, Software developer and technology enthusiast! </div> -->
 
 <h4 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=3000&pause=1000&color=00DC0C&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+;I'm+Madson+Jhones;Software+Developer;And+;Technology+Enthusiast.;Let's+Code!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=3000&pause=1000&color=00DC0C&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+;I'm+Madson+Jhones;Software+Developer;And+;Technology+Enthusiast.;Let's+Code!" alt="Typing SVG" /></a>   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/94166da98c86698984a568e4f3e3b8c1.gif" width="150" height="150" border="0"  align="right" alt="Mad" /></a><br /><a href="https://picasion.com/">
 </h4>
 
 <div align="center">
